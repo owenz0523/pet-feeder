@@ -32,6 +32,7 @@ Follow these steps to set up and run the PiPaws web application locally:
 ## Author ✍️
 Mikayla Mao,
 Rita Xiang,
+Sally Jeong,
 Lily Zhang,
 Owen Zhang,
 Umar Mustafa,
