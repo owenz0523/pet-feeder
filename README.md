@@ -1,5 +1,5 @@
-## Video:
-[![PiPaws Video](front-end/src/assets/pipaws.png)](https://youtu.be/w9p5YQA9ulU)
+## Video: 🎥
+[![PiPaws Video](front-end/src/assets/pipawsYT.png)](https://youtu.be/w9p5YQA9ulU)
 
 ## What is PiPaws? 🤔
 PiPaws is a software and hardware combined project created by a group of students who go by Pawgrammers, a product designed to allow pet owners to remotely dispense food with the click of a button through a web application. The system includes a camera for confirming pet consumption and features for collecting data on the pet’s diet. The logged data will then be displayed through the web application, giving users a clear idea of their pets’ diet conditions. Ultimately, this project provides an automated solution for pet owners who cannot dispense food for their pets in person regularly, making feeding their pets much more convenient.
