@@ -28,16 +28,6 @@ Follow these steps to set up and run the PiPaws web application locally:
     ```bash
     http://localhost:5000
 
-## Usage 🧐
-
-
-## License 🪪
-
-
-
-## Acknowledgments 🤗
-
-
 
 ## Author ✍️
 Mikayla Mao,
@@ -46,7 +36,3 @@ Lily Zhang,
 Owen Zhang,
 Umar Mustafa,
 Shayyan Husein
-
-
-## Other information ℹ️
-The Project is still under development. Some features are not completed and the code might have some errors. Please use it at your own risk!
